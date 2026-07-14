@@ -11,11 +11,11 @@ This project demonstrates core front-end fundamentals: semantic HTML structure, 
 ## Pages
 
 - **Home** (`index.html`) — introduces North Dakota, its nickname, geography, and quality of life
-- **Bismarck** (`bismarck.html`) — the state capital
+- **Bismarck** (`bismarck.html`) - the state capital
 - **Fargo** (`fargo.html`) — featured city
-- **Wahpeton** (`wahpeton.html`) — featured city
-- **Explore** (`explore.html`) — additional content page
-- **Contact** (`contact.html`) — contact form with email confirmation validation
+- **Wahpeton** (`wahpeton.html`) - featured city
+- **Explore** (`explore.html`) - additional content page
+- **Contact** (`contact.html`) - contact form with email confirmation validation
 
 Each city page includes population, year incorporated, region of the state, urban/suburban/rural classification, and average income level relative to the rest of the state.
 
@@ -34,20 +34,6 @@ Each city page includes population, year incorporated, region of the state, urba
 - HTML5
 - CSS3 (external stylesheet, `style.css`)
 - Vanilla JavaScript
-
-## Project Structure
-
-```
-├── index.html          # Home page
-├── bismarck.html        # Capital city page
-├── fargo.html            # City page
-├── wahpeton.html         # City page
-├── explore.html          # Additional content page
-├── contact.html          # Contact form page
-├── style.css             # External stylesheet
-├── formvalidation.js     # Email confirmation validation
-└── images/               # Site images
-```
 
 ## Running Locally
 
