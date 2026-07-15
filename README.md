@@ -2,7 +2,7 @@
 
 A responsive, multi-page website built for WGU's Front End Web Development course. The site introduces North Dakota, "The Peace Garden State," with dedicated pages for the capital and two additional cities, along with a contact form featuring client-side email validation.
 
-🔗 **Live site:** [samoyatech.github.io/My-ND-Website1-D277](https://samoyatech.github.io/My-ND-Website1-D277/)
+🔗 **Live site:** https://samoyatech.github.io/D277-ND-Tourism-Website/
 
 ## Overview
 
